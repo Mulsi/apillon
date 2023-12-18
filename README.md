@@ -5,8 +5,9 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Setup
 
 Requirements: 
-node v18 or higher
-Input your own Apillon api keys to get the webapp to work 
+- Node v18 or higher
+- Input your own Apillon api keys in Nuxt environment variables to get the webapp to work 
+
 
 Make sure to install the dependencies:
 
